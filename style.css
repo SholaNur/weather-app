@@ -1,0 +1,15 @@
+body {
+  box-sizing: border-box;
+  background-color: #edf1d6;
+  color: #609966;
+}
+#submitButton {
+  width: 100px;
+  border-radius: 0.3rem;
+  border-color: #609966;
+}
+#searchInput {
+  border-radius: 0.3rem;
+  border-color: #609966;
+  width: 200px;
+}
